@@ -1,0 +1,5 @@
+{
+	"token": "DISCORD_TOKEN",
+	"clientId": "DISCORD_CLIENT_ID",
+	"guildId": "DISCORD_SERVER_ID"
+}
