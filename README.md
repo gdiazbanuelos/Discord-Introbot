@@ -1,6 +1,12 @@
 # Discord-Introbot
 ![My Image](res/mango.png)
 
+## What is this?
+Add a sound bite whenever a user joins a voice chanel on a Discord server!
+
+<br>
+
+
 ## Set up a Discord bot in the Developer portal
 - Set up a new Discord Application (https://discord.com/developers/applications)
 - Invite the bot to your Discord server
