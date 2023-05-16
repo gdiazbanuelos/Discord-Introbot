@@ -1,4 +1,5 @@
 # Discord-Introbot
+![My Image](res/mango.png)
 
 ## Set up a Discord bot in the Developer portal
 - Set up a new Discord Application (https://discord.com/developers/applications)
