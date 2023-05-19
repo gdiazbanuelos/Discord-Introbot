@@ -20,6 +20,11 @@ Add a sound bite whenever a user joins a voice chanel on a Discord server!
     Then install all node packages
 - `npm i`
 
+## (Optional) Docker
+- If you prefer to run via a Docker container, a Dockerfile is provided
+- `docker build -t dicordintrobot ./`
+- `docker run dicordintrobot &`
+
 ## Running the bot
 - (First time run only, then rerun whenever new slash commands are added/modified) 
 
